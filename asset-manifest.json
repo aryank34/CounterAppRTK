@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://aryank34.github.io/CounterAppRTK/static/css/main.073c9b0a.css",
+    "main.js": "https://aryank34.github.io/CounterAppRTK/static/js/main.34f31ee4.js",
+    "static/js/787.29c486af.chunk.js": "https://aryank34.github.io/CounterAppRTK/static/js/787.29c486af.chunk.js",
+    "index.html": "https://aryank34.github.io/CounterAppRTK/index.html",
+    "main.073c9b0a.css.map": "https://aryank34.github.io/CounterAppRTK/static/css/main.073c9b0a.css.map",
+    "main.34f31ee4.js.map": "https://aryank34.github.io/CounterAppRTK/static/js/main.34f31ee4.js.map",
+    "787.29c486af.chunk.js.map": "https://aryank34.github.io/CounterAppRTK/static/js/787.29c486af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.34f31ee4.js"
+  ]
+}
